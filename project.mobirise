@@ -7,11 +7,11 @@
       "title": "Mobirise3",
       "styling": {
         "primaryColor": "#c0a375",
-        "secondaryColor": "#bfcecb",
-        "successColor": "#90a878",
+        "secondaryColor": "#00a885",
+        "successColor": "#ffffff",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
-        "dangerColor": "#f28281",
+        "dangerColor": "#c1c1c1",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
@@ -59,13 +59,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#cccccc"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#cccccc"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#cccccc",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-family": "'Oxygen', sans-serif"
             },
@@ -88,7 +88,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#cccccc",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -120,7 +120,7 @@
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "css": "'Oxygen', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#cccccc",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\" aria-expanded=\"false\">Home&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">travaux / &nbsp;divers&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#msg-box5-s\" aria-expanded=\"false\">portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#gallery1-v\" aria-expanded=\"false\">&nbsp;gallerie</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">réseau sociaux&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\" aria-expanded=\"false\">Youtube&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\" aria-expanded=\"false\">&nbsp;Facebook</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">contact&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2\" aria-expanded=\"false\">&nbsp;mail&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2\" aria-expanded=\"false\">numéro</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
@@ -139,7 +139,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Loe-A-Fook &nbsp;Mickael&nbsp;</a>",
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Loe-A-Fook &nbsp;Mickael&nbsp;</a>",
           "_tags": [
             "Thème"
           ],
@@ -154,7 +154,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1440.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aaa-1-857x606.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -167,13 +167,18 @@
             "overlayOpacity": 0.5
           },
           "title": "",
-          "text": "&nbsp;- \" Il faut songer &nbsp;à &nbsp;se réinventer &nbsp; , pour comprendre un monde , &nbsp;et , &nbsp;en concevoir des &nbsp;nouveaux &nbsp; . &nbsp; \" &nbsp;&nbsp;, &nbsp; &nbsp; Loe -A- Fook Mickael &nbsp;&nbsp;<br>",
+          "text": "&nbsp;- \" Il faut songer &nbsp;à &nbsp;se réinventer &nbsp; pour comprendre un monde &nbsp; et &nbsp; en concevoir des &nbsp;nouveaux &nbsp; . &nbsp; \" &nbsp; &nbsp; &nbsp; &nbsp;Loe -A- Fook Mickael &nbsp;&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Thème"
           ],
           "_name": "header1",
-          "_anchor": "header1-1"
+          "_anchor": "header1-1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#c0a375"
+            }
+          }
         },
         {
           "_styles": {
@@ -191,13 +196,13 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/42295294-746732389001853-2443518709872984064-n-4-2000x1125.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "&nbsp;Créativité &nbsp;, &nbsp;originalité &nbsp;",
+                "title": "<a href=\"page1.html#gallery1-v\" class=\"text-primary\">&nbsp;Créativité &nbsp;, &nbsp;originalité &nbsp;</a>",
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
@@ -206,13 +211,13 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/couverture-1527x1078.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "&nbsp;Book &nbsp;Personalisé&nbsp;",
+                "title": "&nbsp;<a href=\"assets/files/portfolio%20%20compress%C3%A9%20%20..pdf\" target=\"_blank\" class=\"text-primary\">Book &nbsp;Personalisé</a>&nbsp;",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -367,13 +372,13 @@
             "paddingTop": "3",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/43828483-330242274450984-8699226047800934400-n-2000x1125.jpg",
-            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/page-1-857x606.jpg",
+            "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.4"
           },
           "logo": {
             "image": {
@@ -400,25 +405,25 @@
           "_anchor": "contacts1-2",
           "_styles": {
             "P": {
-              "color": "#c0a375"
+              "color": "#efefef"
             },
             "STRONG": {
-              "color": "#c1c1c1"
+              "color": "#efefef"
             }
           }
         },
         {
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/43828483_330242274450984_8699226047800934400_n-16-2000x1125.jpg",
             "parallax": false,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#433632",
             "overlay": true,
             "overlayColor": "#7c706b",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "1"
           },
           "text": "Copyright (c) 2018 Winixion.",
           "_tags": [
@@ -609,7 +614,7 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -648,6 +653,20 @@
                 "contentAlign": "center",
                 "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/plan-de-travail-1300x-100-2000x1414.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "&nbsp; Typographie&nbsp;",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
           },
@@ -663,8 +682,8 @@
             "showBullets": true,
             "fullWidth": false,
             "spacing": "0",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "filterBgColor": false,
             "bgColor": "#000000",
             "showText": false,
@@ -805,15 +824,15 @@
         {
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/43828483_330242274450984_8699226047800934400_n-16-2000x1125.jpg",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/care-2000x770.png",
             "parallax": false,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#433632",
             "overlay": true,
             "overlayColor": "#7c706b",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "1"
           },
           "text": "Copyright (c) 2018 Winixion.",
           "_tags": [
