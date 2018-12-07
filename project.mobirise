@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": " site Mike",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -217,7 +217,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<a href=\"assets/files/book%20%20%20;%20%20portfolio.pdf\" target=\"_blank\" class=\"text-primary\">&nbsp;Book &nbsp;Personalisé&nbsp;</a>",
+                "title": "<a href=\"assets/files/portfoliobymike.pdf\" target=\"_blank\" class=\"text-primary\">&nbsp;Book &nbsp;Personalisé&nbsp;</a>",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -553,7 +553,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/couverture-1400x988.jpg",
-              "link": "assets/files/portfolio  by mike.pdf",
+              "link": "assets/files/portfoliobymike.pdf",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
