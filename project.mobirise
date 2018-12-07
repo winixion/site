@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": " site Mike",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -35,7 +35,7 @@
         "url": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
       }
     ],
-    "uniqCompNum": 44,
+    "uniqCompNum": 52,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png"
   },
@@ -532,11 +532,10 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "showArrow": false,
+            "imageSize": "52",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#c1c1c1",
@@ -544,9 +543,9 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
           },
           "media": {
             "image": {
@@ -565,26 +564,22 @@
               "loop": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "linkInNewWindow": false,
-              "name": "mobirise",
-              "family": "MobiriseIcons",
-              "link": "assets/files/portfolio%20%20compress%C3%A9%20%20..pdf",
-              "size": 0,
-              "newWindow": false
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
             }
           },
-          "title": "&nbsp; Le design version <i>\"O\"riginal</i> .",
-          "text": "&nbsp; &nbsp;Charbonner &nbsp;, &nbsp;pour<i>&nbsp;<b> s inspirer</b></i> &nbsp;? &nbsp; Je vote plutot &nbsp; revasser &nbsp;pour <b>&nbsp;concevoir </b>&nbsp;.&nbsp;",
+          "title": "&nbsp;Le design version&nbsp;<br><i>\"O\"riginal </i>.<i>&nbsp;</i>",
+          "text": "&nbsp;Charbonner &nbsp;pour <b><i>s' inspirer</i></b> &nbsp;? &nbsp; Je vote plutot revasser pour <br><b>concevoir</b> .&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Thème"
           ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-s",
+          "_name": "header2",
+          "_anchor": "header2-1f",
           "_styles": {
-            "P": {
-              "color": "#ffffff"
+            ".mbr-section-title": {
+              "color": "#000000"
             }
           }
         },
