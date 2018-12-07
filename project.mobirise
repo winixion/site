@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": " site Mike",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -553,7 +553,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/couverture-1400x988.jpg",
-              "link": "assets/files/portfolio%20%20by%20mike.pdf",
+              "link": "assets/files/portfolio  by mike.pdf",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
