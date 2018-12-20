@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": " site Mike",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -838,7 +838,7 @@
             "slides": [
               {
                 "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -859,6 +859,21 @@
                 "showTitle": true,
                 "playVideo": true,
                 "videoUrl": " https://youtu.be/bOiVnZOxC5w",
+                "title": "<a href=\"https://youtu.be/bOiVnZOxC5w\" target=\"_blank\" class=\"text-primary\">&nbsp; Animations / &nbsp;</a><br><a href=\"https://youtu.be/bOiVnZOxC5w\" target=\"_blank\" class=\"text-primary\">&nbsp;Titrages&nbsp;</a>",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.7"
+              },
+              {
+                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/quyHpAsDjlo",
                 "title": "<a href=\"https://youtu.be/bOiVnZOxC5w\" target=\"_blank\" class=\"text-primary\">&nbsp; Animations / &nbsp;</a><br><a href=\"https://youtu.be/bOiVnZOxC5w\" target=\"_blank\" class=\"text-primary\">&nbsp;Titrages&nbsp;</a>",
                 "overlay": true,
                 "contentAlign": "left",
