@@ -533,7 +533,7 @@
             "showButtons": false,
             "inverse": false,
             "showArrow": true,
-            "imageSize": "60",
+            "imageSize": "50",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
             "parallax": true,
