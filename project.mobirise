@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": " site Mike",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -35,7 +35,7 @@
         "url": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
       }
     ],
-    "uniqCompNum": 52,
+    "uniqCompNum": 54,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png"
   },
@@ -532,8 +532,8 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "showArrow": false,
-            "imageSize": "52",
+            "showArrow": true,
+            "imageSize": "60",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
             "parallax": true,
@@ -552,7 +552,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/couverture-1400x988.jpg",
-              "link": "assets/files/Le portfolio  .pdf",
+              "link": "assets/files/Le%20portfolio%20%20.pdf",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
@@ -569,14 +569,14 @@
               "size": 250
             }
           },
-          "title": "&nbsp;Le design version&nbsp;<br><i>\"O\"riginal </i>.<i>&nbsp;</i>",
-          "text": "&nbsp;Charbonner &nbsp;pour <b><i>s' inspirer</i></b> &nbsp;? &nbsp; Je vote plutot revasser pour <br><b>concevoir</b> .&nbsp;",
+          "title": "&nbsp;Le design version <br><i>\"O\"riginal .&nbsp;</i>&nbsp;",
+          "text": "&nbsp;Charbonner &nbsp;pour &nbsp;<i>s 'inspirer&nbsp; ? </i>&nbsp;Je vote &nbsp;revasser pour <br>&nbsp;<b>concevoir . &nbsp;</b>&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Thème"
           ],
           "_name": "header2",
-          "_anchor": "header2-1f",
+          "_anchor": "header2-1g",
           "_styles": {
             ".mbr-section-title": {
               "color": "#000000"
@@ -879,7 +879,7 @@
                 "contentAlign": "left",
                 "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.4"
               }
             ]
           },
