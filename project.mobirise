@@ -552,10 +552,9 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/couverture-1400x988.jpg",
-              "link": "assets/files/Le%20portfolio%20%20.pdf",
+              "link": "assets/files/portfolio%20%20compress%C3%A9%20%20..pdf",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": true
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
