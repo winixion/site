@@ -552,7 +552,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/couverture-1400x988.jpg",
-              "link": "assets/files/Le portfolio  .pdf",
+              "link": "assets/files/Le%20portfolio%20%20.pdf",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
