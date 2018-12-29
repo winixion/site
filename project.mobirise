@@ -552,7 +552,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/couverture-1400x988.jpg",
-              "link": "assets/files/portfolio  compressé  . copie 2.pdf",
+              "link": "assets/files/portfolio%20%20compress%C3%A9%20%20..pdf",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
@@ -570,7 +570,7 @@
             }
           },
           "title": "&nbsp;Le design version <br><i>\"O\"riginal .&nbsp;</i>&nbsp;",
-          "text": "&nbsp;Charbonner &nbsp;pour &nbsp;<i>s 'inspirer&nbsp; ? </i>&nbsp;Je vote &nbsp;revasser pour <br>&nbsp;<b>concevoir . </b><br>&nbsp;<a href=\"assets/files/portfolio  compressé  . copie 2.pdf\" target=\"_blank\" class=\"text-info\"></a><a href=\"assets/files/portfolio  compressé  . copie 2.pdf\" target=\"_blank\" class=\"text-info\">Cliquotte &nbsp;ici</a><b><a href=\"assets/files/portfolio  compressé  . copie 2.pdf\" target=\"_blank\"> &nbsp;</a></b>&nbsp;",
+          "text": "&nbsp;Charbonner &nbsp;pour &nbsp;<i>s 'inspirer&nbsp; ? </i>&nbsp;Je vote &nbsp;revasser pour <br>&nbsp;<b>concevoir . </b><br>&nbsp;<b><a href=\"assets/files/portfolio  compressé  . copie 2.pdf\" target=\"_blank\">&nbsp;&nbsp;</a></b>&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Thème"
