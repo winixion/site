@@ -552,7 +552,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/couverture-1400x988.jpg",
-              "link": "assets/files/portfolio%20%20compress%C3%A9%20%20..pdf",
+              "link": "assets/files/portfolio%20%20compress%C3%A9%20%20.%20copie%202.pdf",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
@@ -676,7 +676,7 @@
           "_params": {
             "showBullets": true,
             "fullWidth": false,
-            "spacing": "0",
+            "spacing": "1",
             "paddingTop": "2",
             "paddingBottom": "2",
             "filterBgColor": false,
@@ -742,7 +742,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -755,6 +755,18 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vogues-595x842.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vogues-595x842-595x842.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -781,24 +793,24 @@
                 "active": false
               },
               {
-                "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/10-1280x720.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/10-1280x720-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/lunettes-flat-d-842x596.png",
                 "thumb": "@PROJECT_PATH@/assets/images/lunettes-flat-d-842x596-800x566.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/10-1280x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-1280x720-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
