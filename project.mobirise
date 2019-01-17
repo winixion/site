@@ -766,7 +766,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -809,8 +809,20 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/10-1280x720.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/10-1280x720-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/i-phone-1217x654.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/i-phone-1217x654-800x430.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/10-1-705x495.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-1-705x495-514x324.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -821,8 +833,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/10-1-705x495.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/10-1-705x495-514x324.jpg",
+                "image": "@PROJECT_PATH@/assets/images/v-roues-2-1280x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/v-roues-2-1280x720-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
