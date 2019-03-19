@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": " site Mike",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -123,11 +123,11 @@
             "fontColor": "#cccccc",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\" aria-expanded=\"false\">Home&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">travaux / &nbsp;divers&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#msg-box5-s\" aria-expanded=\"false\">portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#gallery1-v\" aria-expanded=\"false\">&nbsp;gallerie</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">réseau sociaux&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\" aria-expanded=\"false\">Youtube&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\" aria-expanded=\"false\">&nbsp;Facebook</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">contact&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2\" aria-expanded=\"false\">&nbsp;mail&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2\" aria-expanded=\"false\">numéro</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\" aria-expanded=\"false\">Home&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">travaux / &nbsp;divers&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#msg-box5-s\" aria-expanded=\"false\">portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#gallery1-v\" aria-expanded=\"false\">&nbsp;gallerie</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">contact&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2\" aria-expanded=\"false\">&nbsp;mail&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2\" aria-expanded=\"false\">numéro</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2-181x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-wx-plan-de-travail-1-228x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -242,7 +242,8 @@
               "border-color": "#c0a375"
             },
             "P": {
-              "color": "#c0a375"
+              "color": "#c0a375",
+              "text-align": "center"
             }
           },
           "_params": {
@@ -339,13 +340,13 @@
           },
           "title1": "&nbsp;Dipl / Brev / &nbsp;Certifs&nbsp;",
           "subtitle1": "",
-          "caption1": "&nbsp; &nbsp;- Baccalauréat S &nbsp;<br>&nbsp;- BIA &nbsp;<br>&nbsp; &nbsp;-TOEIC 805&nbsp;<br>&nbsp; &nbsp;- &nbsp; MANAA&nbsp;",
+          "caption1": "&nbsp; &nbsp;- Baccalauréat S &nbsp;<br>&nbsp;- BIA ( &nbsp;brevet &nbsp;d Aéronautique &nbsp;) &nbsp;&nbsp;<br>&nbsp; &nbsp;-TOEIC 805&nbsp;<br>&nbsp; &nbsp;- &nbsp; MANAA&nbsp;",
           "title2": "Etudes&nbsp;",
           "subtitle2": "",
           "caption2": "- Ynov &nbsp;( &nbsp;infographie / &nbsp;multimédias &nbsp;)&nbsp;<br>&nbsp;- &nbsp;E- artsup &nbsp; ( &nbsp;direction artistique &nbsp;) &nbsp;",
           "title3": "&nbsp;Expérience / &nbsp;Projets &nbsp;",
           "subtitle3": "",
-          "caption3": "&nbsp;-  <a href=\"http://www.unehistoiresimple.fr\" target=\"_blank\">unehistoiresimple.fr </a>\n<br>- EXO FLOW &nbsp; &nbsp;&nbsp;",
+          "caption3": "&nbsp;-  <a href=\"http://www.unehistoiresimple.fr\" target=\"_blank\">unehistoiresimple.fr </a>\n<br>- EXO FLOW &nbsp;<br>- &nbsp; &nbsp;<a href=\"https://www.rep-it.fr/\" target=\"_blank\">Répit France</a>&nbsp;<a href=\"https://www.rep-it.fr/\" target=\"_blank\">&nbsp; &nbsp;</a>",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
@@ -709,6 +710,18 @@
                 "active": false
               },
               {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/sans-titre-1-2000x2829.png",
+                "thumb": "@PROJECT_PATH@/assets/images/sans-titre-1-2000x2829-800x508.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -727,6 +740,18 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/loup-logo-2-608x576.png",
                 "thumb": "@PROJECT_PATH@/assets/images/loup-logo-2-608x576-472x484.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vogues-595x842.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vogues-595x842-595x842.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -757,12 +782,12 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/vogues-595x842.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vogues-595x842-595x842.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lunettes-flat-d-842x596.png",
+                "thumb": "@PROJECT_PATH@/assets/images/lunettes-flat-d-842x596-800x566.png",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -785,20 +810,32 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/robot-laser-1920x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/robot-laser-1920x1080-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/roues-4-1198x639.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/roues-4-1198x639-800x427.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-ville-lyon-plan-de-travail-172x-1920x240.png",
+                "thumb": "@PROJECT_PATH@/assets/images/ville-lyon-plan-de-travail-172x-1920x240-800x100.png",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Beautiful",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/lunettes-flat-d-842x596.png",
-                "thumb": "@PROJECT_PATH@/assets/images/lunettes-flat-d-842x596-800x566.png",
+                "image": "@PROJECT_PATH@/assets/images/robot-laser-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/robot-laser-1920x1080-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -814,7 +851,19 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/13-546x776.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13-546x776-546x776.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Beautiful",
@@ -835,6 +884,18 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/v-roues-2-1280x720.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/v-roues-2-1280x720-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-oxy-pub-plan-de-travail-172x-100-1002x1134.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/oxy-pub-plan-de-travail-172x-100-1002x1134-800x905.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
