@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": " site Mike",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -167,7 +167,7 @@
             "overlayOpacity": 0.5
           },
           "title": "",
-          "text": "Graphiste , &nbsp;infographiste 2D / &nbsp;3D&nbsp;",
+          "text": "Graphiste , &nbsp;infographiste 2D / &nbsp;3D &nbsp;,&nbsp;<br>&nbsp;Directeur artistique junior&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Thème"
