@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": " site Mike",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -123,7 +123,7 @@
             "fontColor": "#cccccc",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\" aria-expanded=\"false\">Home&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">travaux / &nbsp;divers&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#msg-box5-s\" aria-expanded=\"false\">portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#gallery1-v\" aria-expanded=\"false\">&nbsp;gallerie</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">contact&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2\" aria-expanded=\"false\">&nbsp;mail&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2\" aria-expanded=\"false\">numéro</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\" aria-expanded=\"false\">Home&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">travaux / &nbsp;divers&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#msg-box5-s\" aria-expanded=\"false\">portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#gallery1-v\" aria-expanded=\"false\">&nbsp;gallerie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">contact&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2\" aria-expanded=\"false\">&nbsp;mail&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2\" aria-expanded=\"false\">numéro</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -167,7 +167,7 @@
             "overlayOpacity": 0.5
           },
           "title": "",
-          "text": "&nbsp;- \" Il faut songer &nbsp;à &nbsp;se réinventer &nbsp; pour comprendre un monde &nbsp; et &nbsp; en concevoir des &nbsp;nouveaux &nbsp; . &nbsp; \" &nbsp; &nbsp; &nbsp; &nbsp;Loe -A- Fook Mickael &nbsp;&nbsp;<br>",
+          "text": "Graphiste , &nbsp;infographiste 2D / &nbsp;3D&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Thème"
@@ -383,7 +383,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/2-128x91.png",
+              "src": "@PROJECT_PATH@/assets/images/-winixplan-de-travail-172x-128x72.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -762,12 +762,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/pdf-mickael-loe-a-fook-images-jpeg2-448x624.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pdf-mickael-loe-a-fook-images-jpeg2-448x624-364x513.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12-1280x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12-1280x720-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -782,12 +782,36 @@
                 "active": false
               },
               {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/pdf-mickael-loe-a-fook-images-jpeg2-448x624.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pdf-mickael-loe-a-fook-images-jpeg2-448x624-364x513.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/lunettes-flat-d-842x596.png",
                 "thumb": "@PROJECT_PATH@/assets/images/lunettes-flat-d-842x596-800x566.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/roues-4-1198x639.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/roues-4-1198x639-800x427.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -810,12 +834,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/roues-4-1198x639.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/roues-4-1198x639-800x427.jpg",
+                "image": "@PROJECT_PATH@/assets/images/57079822-350098285603978-1350820008330002432-n-941x597.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/57079822-350098285603978-1350820008330002432-n-941x597-800x508.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Beautiful",
@@ -836,6 +860,18 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/robot-laser-1920x1080.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/robot-laser-1920x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2-1280x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-1280x720-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -900,6 +936,30 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/sans-titre-4-1280x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sans-titre-4-1280x720-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7-1280x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-1280x720-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -938,7 +998,7 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -965,6 +1025,21 @@
                 "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.4"
+              },
+              {
+                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": true,
+                "videoUrl": "TIghttps://www.youtube.com/watch?v=ZCF9ytruJjI",
+                "title": "<a href=\"https://youtu.be/bOiVnZOxC5w\" target=\"_blank\" class=\"text-primary\">&nbsp; Animations / &nbsp;</a><br><a href=\"https://youtu.be/bOiVnZOxC5w\" target=\"_blank\" class=\"text-primary\">&nbsp;Titrages&nbsp;</a>",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.7"
               }
             ]
           },
