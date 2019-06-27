@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": " site Mike",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -35,7 +35,7 @@
         "url": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
       }
     ],
-    "uniqCompNum": 54,
+    "uniqCompNum": 55,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png"
   },
@@ -788,8 +788,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/i-phone-2-1280x720.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/i-phone-2-1280x720-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/poids-1240x1748.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/poids-1240x1748-800x1128.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -860,8 +860,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/robot-laser-1920x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/robot-laser-1920x1080-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tennis-1240x1748.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tennis-1240x1748-800x1128.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -972,6 +972,125 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-v"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "1",
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "filterBgColor": true,
+            "bgColor": "#000000",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/planche-une-4-2000x2829.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/planche-une-4-2000x2829-800x1132.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/jacket-2-2-2000x2829.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jacket-2-2-2000x2829-800x1132.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/planche-120par176-5-2000x2933.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/planche-120par176-5-2000x2933-800x1173.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/piscine-1240x1748.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/piscine-1240x1748-800x1128.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/plan-1-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/plan-1-1920x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/flacons-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flacons-1920x1080-800x736.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/bouteilles-5-instantan-1024x682.png",
+                "thumb": "@PROJECT_PATH@/assets/images/bouteilles-5-instantan-1024x682-800x533.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/64644913-492383358251378-5913635329062993920-n-406x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/64644913-492383358251378-5913635329062993920-n-406x720-406x496.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Thème"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-1i"
         },
         {
           "_params": {
