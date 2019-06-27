@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": " site Mike",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -555,11 +555,10 @@
               "src": "@PROJECT_PATH@/assets/images/couverture-1400x988.jpg",
               "link": "assets/files/portfolio  compressé  . copie 2.pdf",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": true
+              "title": ""
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://youtu.be/KIBNm2K4v2g",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -571,7 +570,7 @@
             }
           },
           "title": "&nbsp;Le design version <br><i>\"O\"riginal .&nbsp;</i>&nbsp;",
-          "text": "&nbsp;Charbonner &nbsp;pour &nbsp;<i>s 'inspirer&nbsp; ? </i>&nbsp;Je vote &nbsp;revasser pour <br>&nbsp;<b>concevoir . </b><br>&nbsp;<b><a href=\"assets/files/portfolio  compressé  . copie 2.pdf\" target=\"_blank\">&nbsp;&nbsp;</a></b>&nbsp;",
+          "text": "<b><a href=\"assets/files/portfolio  compressé  . copie 2.pdf\" target=\"_blank\">&nbsp;</a></b><i><b><a href=\"assets/files/portfolio  compressé  . copie 2.pdf\" target=\"_blank\" class=\"text-success\">Portfolio</a></b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</i>&nbsp;/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b><a href=\"https://youtu.be/KIBNm2K4v2g\" target=\"_blank\" class=\"text-success\">showreel</a></b>&nbsp;<br>&nbsp;<b><a href=\"assets/files/portfolio  compressé  . copie 2.pdf\" target=\"_blank\">&nbsp;&nbsp;</a></b>&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Thème"
@@ -581,6 +580,9 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#000000"
+            },
+            ".mbr-section-text": {
+              "color": "#efefef"
             }
           }
         },
@@ -738,8 +740,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/loup-logo-2-608x576.png",
-                "thumb": "@PROJECT_PATH@/assets/images/loup-logo-2-608x576-472x484.png",
+                "image": "@PROJECT_PATH@/assets/images/chap-595x842.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/chap-595x842-595x842.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -767,7 +769,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -786,12 +788,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/pdf-mickael-loe-a-fook-images-jpeg2-448x624.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pdf-mickael-loe-a-fook-images-jpeg2-448x624-364x513.jpg",
+                "image": "@PROJECT_PATH@/assets/images/i-phone-2-1280x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/i-phone-2-1280x720-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -822,8 +824,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/ppng-2000x1414.png",
-                "thumb": "@PROJECT_PATH@/assets/images/ppng-2000x1414-800x566.png",
+                "image": "@PROJECT_PATH@/assets/images/montre-7-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/montre-7-1920x1080-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -882,8 +884,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/i-phone-1217x654.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/i-phone-1217x654-800x430.jpg",
+                "image": "@PROJECT_PATH@/assets/images/faune-brasil-3-595x842.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/faune-brasil-3-595x842-595x842.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -906,8 +908,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/10-1-705x495.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/10-1-705x495-514x324.jpg",
+                "image": "@PROJECT_PATH@/assets/images/16-1200x675.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/16-1200x675-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -954,12 +956,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/7-1280x720.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/7-1280x720-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sans-titre-1-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sans-titre-1-1920x1080-800x554.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           },
