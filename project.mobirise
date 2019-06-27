@@ -123,7 +123,7 @@
             "fontColor": "#cccccc",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\" aria-expanded=\"false\">Home&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">travaux / &nbsp;divers&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#msg-box5-s\" aria-expanded=\"false\">portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#gallery1-v\" aria-expanded=\"false\">&nbsp;gallerie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">contact&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2\" aria-expanded=\"false\">&nbsp;mail&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-2\" aria-expanded=\"false\">numéro</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\" aria-expanded=\"false\">Home&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">travaux / &nbsp;divers&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#msg-box5-s\" aria-expanded=\"false\">portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#gallery1-v\" aria-expanded=\"false\">&nbsp;gallerie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-2\" aria-expanded=\"true\">contact&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -164,7 +164,7 @@
             },
             "overlay": false,
             "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.3"
           },
           "title": "",
           "text": "Graphiste , &nbsp;infographiste 2D / &nbsp;3D &nbsp;,&nbsp;<br>&nbsp;Directeur artistique junior&nbsp;",
@@ -396,8 +396,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Adresses</strong><br>- 2 rue Renan 69007 Lyon&nbsp;<br>&nbsp; &nbsp;-22 rue Georges Brassens<br>&nbsp; &nbsp; 63830 Durtol",
-          "text2": "<strong>Contacts</strong><br>\nEmail: dreeslart@gmail.com<br>&nbsp; &nbsp;Téléphone : +33 6 38 12 28 30&nbsp;<br><br>",
+          "text1": "Contacts<br>\n<br>Email: dreeslart@gmail.com\n<br>   Téléphone : +33 6 38 12 28 30<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;06 38 12 28 &nbsp;30&nbsp;<br>",
+          "text2": "",
           "text3": "",
           "_tags": [
             "Thème"
