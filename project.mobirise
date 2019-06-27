@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": " site Mike",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -340,7 +340,7 @@
           },
           "title1": "&nbsp;Dipl / Brev / &nbsp;Certifs&nbsp;",
           "subtitle1": "",
-          "caption1": "&nbsp; &nbsp;- Baccalauréat S &nbsp;<br>&nbsp;- BIA ( &nbsp;brevet &nbsp;d Aéronautique &nbsp;) &nbsp;&nbsp;<br>&nbsp; &nbsp;-TOEIC 805&nbsp;<br>&nbsp; &nbsp;- &nbsp; MANAA&nbsp;",
+          "caption1": "&nbsp; &nbsp;- Baccalauréat S &nbsp;<br>&nbsp;- BIA ( &nbsp;brevet &nbsp;d Aéronautique &nbsp;) &nbsp; &nbsp;<br>&nbsp; &nbsp;- &nbsp; MANAA&nbsp;",
           "title2": "Etudes&nbsp;",
           "subtitle2": "",
           "caption2": "- Ynov &nbsp;( &nbsp;infographie / &nbsp;multimédias &nbsp;)&nbsp;<br>&nbsp;- &nbsp;E- artsup &nbsp; ( &nbsp;direction artistique &nbsp;) &nbsp;",
