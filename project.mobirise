@@ -793,7 +793,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -957,7 +957,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/sans-titre-1-1920x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sans-titre-1-1920x1080-800x554.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sans-titre-1-1920x1080-800x579.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -1051,12 +1051,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/flacons-1920x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/flacons-1920x1080-800x736.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mos-2-2000x1414.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mos-2-2000x1414-800x566.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -1068,7 +1068,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
