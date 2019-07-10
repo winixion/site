@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": " site Mike",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -987,18 +987,6 @@
             "filter": false,
             "images": [
               {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/planche-une-4-2000x2829.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/planche-une-4-2000x2829-800x1132.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -1047,40 +1035,16 @@
                 "active": false
               },
               {
-                "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mos-2-2000x1414.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mos-2-2000x1414-800x566.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/bouteilles-5-instantan-1024x682.png",
-                "thumb": "@PROJECT_PATH@/assets/images/bouteilles-5-instantan-1024x682-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/planche-une-4-2000x2829.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/planche-une-4-2000x2829-800x1132.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/64644913-492383358251378-5913635329062993920-n-406x720.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/64644913-492383358251378-5913635329062993920-n-406x720-406x496.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           },
