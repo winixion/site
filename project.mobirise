@@ -1044,6 +1044,18 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/tour-5-1920x1200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tour-5-1920x1200-800x500.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
                 "active": true
               }
             ]
