@@ -788,8 +788,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/poids-1240x1748.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/poids-1240x1748-800x1128.jpg",
+                "image": "@PROJECT_PATH@/assets/images/poids-jo-1240x1748.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/poids-jo-1240x1748-800x1128.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -860,12 +860,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/tennis-1240x1748.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tennis-1240x1748-800x1128.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tennis-jo-1240x1748.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tennis-jo-1240x1748-800x1128.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Beautiful",
@@ -961,7 +961,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
@@ -1015,8 +1015,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/piscine-1240x1748.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/piscine-1240x1748-800x1128.jpg",
+                "image": "@PROJECT_PATH@/assets/images/piscine-jo-1240x1748.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/piscine-jo-1240x1748-800x1128.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -1053,6 +1053,30 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/tour-5-1920x1200.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/tour-5-1920x1200-800x500.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/jo-prsentation-3-2000x2829.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jo-prsentation-3-2000x2829-800x1132.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/concept-2-6-1280x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/concept-2-6-1280x720-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
