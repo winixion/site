@@ -553,9 +553,10 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/couverture-1400x988.jpg",
-              "link": "assets/files/portfolio  compressé  . copie 2.pdf",
+              "link": "assets/files/Portfolio%20%202020.pdf",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
               "src": "https://youtu.be/KIBNm2K4v2g",
@@ -570,7 +571,7 @@
             }
           },
           "title": "&nbsp;Le design version <br><i>\"O\"riginal .&nbsp;</i>&nbsp;",
-          "text": "<b><a href=\"assets/files/portfolio  compressé  . copie 2.pdf\" target=\"_blank\">&nbsp;</a></b><i><b><a href=\"assets/files/portfolio  compressé  . copie 2.pdf\" target=\"_blank\" class=\"text-success\">Portfolio</a></b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</i>&nbsp;/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b><a href=\"https://youtu.be/KIBNm2K4v2g\" target=\"_blank\" class=\"text-success\">showreel</a></b>&nbsp;<br>&nbsp;<b><a href=\"assets/files/portfolio  compressé  . copie 2.pdf\" target=\"_blank\">&nbsp;&nbsp;</a></b>&nbsp;",
+          "text": "<b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;</a></b><i><b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\" class=\"text-success\">Portfolio</a></b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a></i><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a><b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\" class=\"text-success\">showreel</a></b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;</a><br><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;</a><b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;&nbsp;</a></b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Thème"
