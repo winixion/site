@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": " site Mike",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -553,7 +553,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/couverture-1400x988.jpg",
-              "link": "assets/files/Portfolio%20%202020.pdf",
+              "link": "assets/files/Portfolio  2020.pdf",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
@@ -571,7 +571,7 @@
             }
           },
           "title": "&nbsp;Le design version <br><i>\"O\"riginal .&nbsp;</i>&nbsp;",
-          "text": "<b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;</a></b><i><b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\" class=\"text-success\">Portfolio</a></b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\" class=\"text-success\"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a></i><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\" class=\"text-success\">&nbsp;/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a><b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\" class=\"text-success\">showreel</a></b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;</a><br><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;</a><b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;&nbsp;</a></b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;</a>",
+          "text": "<b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;</a><a href=\"https://dreeslart.myportfolio.com/portfolio-behance\" class=\"text-success\" target=\"_blank\">Behance</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b><i><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\" class=\"text-success\">&nbsp;</a></i><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\" class=\"text-success\">&nbsp;/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a><b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\" class=\"text-success\">showreel</a></b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;</a><br><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;</a><b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;&nbsp;</a></b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Thème"
@@ -1190,7 +1190,7 @@
             "paddingBottom": 1,
             "bgColor": "#c0a375"
           },
-          "title": "Winixion&nbsp;",
+          "title": "Mickael Loe-A-Fook&nbsp;",
           "meta": "<a href=\"#top\">&nbsp;Haut de page&nbsp;</a>",
           "_tags": [
             "Thème"
