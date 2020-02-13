@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": " site Mike",
-    "currentPage": "page1.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -35,7 +35,7 @@
         "url": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
       }
     ],
-    "uniqCompNum": 55,
+    "uniqCompNum": 60,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png"
   },
@@ -44,7 +44,7 @@
       "settings": {
         "main": true,
         "title": "Winixion",
-        "meta_descr": "",
+        "meta_descr": " Page  Home  ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -123,7 +123,7 @@
             "fontColor": "#cccccc",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\" aria-expanded=\"false\">Home&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">travaux / &nbsp;divers&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#msg-box5-s\" aria-expanded=\"false\">portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#gallery1-v\" aria-expanded=\"false\">&nbsp;gallerie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-2\" aria-expanded=\"true\">contact&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">travaux / &nbsp;divers&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Projets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-1g\" aria-expanded=\"false\">Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#gallery1-v\" aria-expanded=\"false\">Gallerie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-2\" aria-expanded=\"false\">contact&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -260,7 +260,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -415,8 +415,8 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/43828483_330242274450984_8699226047800934400_n-16-2000x1125.jpg",
             "parallax": false,
@@ -424,9 +424,9 @@
             "bgColor": "#433632",
             "overlay": true,
             "overlayColor": "#7c706b",
-            "overlayOpacity": "1"
+            "overlayOpacity": "0.9"
           },
-          "text": "Copyright (c) 2018 Winixion.",
+          "text": "<a href=\"#bottom\">Copyright (c) 2018 Winixion.</a>",
           "_tags": [
             "Thème"
           ],
@@ -437,7 +437,7 @@
     },
     "page1.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
+        "meta_descr": " Présentation ",
         "title": "Travaux",
         "order": 1
       },
@@ -446,18 +446,18 @@
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#000000",
-            "fontSize": "1.2",
+            "fontSize": "1.25",
             "fontName": {},
             "fontColor": "#c0a375",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">Home&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-2\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header1-1\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Home&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#features1-1m\" aria-expanded=\"false\">Projets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-1g\" aria-expanded=\"false\">Travaux&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#gallery1-v\" aria-expanded=\"false\">Gallerie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-2\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Thème"
           ],
@@ -466,7 +466,10 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "20px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#c0a375"
@@ -478,10 +481,10 @@
               "color": "#c0a375"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1.25rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.354rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -515,8 +518,9 @@
               "src": "@PROJECT_PATH@/assets/images/-wx-plan-de-travail-1-228x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "",
-              "title": ""
+              "link": "index.html#header1-1",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -524,7 +528,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Travaux :&nbsp;</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;Mickael Loe - A - Fook&nbsp;</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-e"
         },
@@ -572,7 +576,7 @@
             }
           },
           "title": "&nbsp;Le design version <br><i>\"O\"riginal .&nbsp;</i>&nbsp;",
-          "text": "<b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;</a><a href=\"https://dreeslart.myportfolio.com/portfolio-behance\" class=\"text-success\" target=\"_blank\">Behance</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b><i><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\" class=\"text-success\">&nbsp;</a></i><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\" class=\"text-success\">&nbsp;/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a><b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\" class=\"text-success\">showreel</a></b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;</a><br><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;</a><b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;&nbsp;</a></b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;</a>",
+          "text": "<b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;</a><a href=\"https://www.behance.net/mickaelloe-a-f\" target=\"_blank\" class=\"text-success\">Behance</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b><i>&nbsp;</i>&nbsp;/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b><a href=\"https://youtu.be/KIBNm2K4v2g\" target=\"_blank\" class=\"text-success\">showreel</a></b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;</a><br><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;</a><b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;&nbsp;</a></b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Thème"
@@ -599,14 +603,14 @@
             "timeout": 5,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/magestic-2000x1414.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/vagones-charte-993x553.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "&nbsp;Photographie&nbsp;",
+                "title": "Design graphique&nbsp;",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "",
@@ -614,7 +618,7 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -632,9 +636,9 @@
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "&nbsp;Animation &nbsp;/ &nbsp;modélisation &nbsp;3D&nbsp;",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=37JS3zZW65w",
+                "title": "&nbsp;Animation &nbsp;/ 3D&nbsp;",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -675,31 +679,39 @@
             "Thème"
           ],
           "_name": "slider",
-          "_anchor": "slider-w"
+          "_anchor": "slider-w",
+          "_styles": {
+            "H2": {
+              "color": "#ffffff",
+              "text-align": "center",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
         },
         {
           "_params": {
             "showBullets": true,
             "fullWidth": false,
             "spacing": "1",
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "4",
+            "paddingBottom": "3",
             "filterBgColor": false,
             "bgColor": "#000000",
             "showText": false,
             "filter": false,
             "images": [
               {
-                "tags": "Awesome",
+                "tags": "Beautiful",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/hip-hop-christmas-clermont-2000x1414.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/hip-hop-christmas-clermont-2000x1414-800x566.jpg",
+                "image": "@PROJECT_PATH@/assets/images/d-p-619x348.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/d-p-619x348-619x348.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -750,12 +762,12 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/vogues-595x842.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vogues-595x842-595x842.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hip-hop-christmas-clermont-2000x1414.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hip-hop-christmas-clermont-2000x1414-800x566.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -778,8 +790,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/vinthy-1-2000x1197.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vinthy-1-2000x1197-800x399.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tour-jour-plan-de-travail-172x-100-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tour-jour-plan-de-travail-172x-100-1920x1080-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -790,8 +802,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/poids-jo-1240x1748.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/poids-jo-1240x1748-800x1128.jpg",
+                "image": "@PROJECT_PATH@/assets/images/d-p-5-614x342.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/d-p-5-614x342-614x342.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -867,15 +879,27 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vogues-595x842.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vogues-595x842-595x842.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/2-1280x720.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2-1280x720-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/satellite-2-607x342.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/satellite-2-607x342-607x342.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -912,18 +936,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/16-1200x675.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/16-1200x675-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/v-roues-2-1280x720.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/v-roues-2-1280x720-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -1201,8 +1213,8 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/care-2000x770.png",
             "parallax": false,
@@ -1210,14 +1222,288 @@
             "bgColor": "#433632",
             "overlay": true,
             "overlayColor": "#7c706b",
-            "overlayOpacity": "1"
+            "overlayOpacity": "0.9"
           },
-          "text": "Copyright (c) 2018 Winixion.",
+          "text": "<a href=\"#bottom\">Copyright (c) 2018 Winixion.</a>",
           "_tags": [
             "Thème"
           ],
           "_name": "footer1",
           "_anchor": "footer1-11"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": " Projets  ",
+        "title": "Projets",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": "1.25",
+            "fontName": {},
+            "fontColor": "#c0a375",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header1-1\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Home&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#features1-1m\" aria-expanded=\"false\">Projets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-1g\" aria-expanded=\"false\">Travaux&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#gallery1-v\" aria-expanded=\"false\">Gallerie</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-2\">contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Thème"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#c0a375"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#c0a375"
+            },
+            ".link, .dropdown-item": {
+              "color": "#c0a375"
+            },
+            ".link": {
+              "font-size": "1.25rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.354rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#c0a375",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-wx-plan-de-travail-1-228x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-1",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;Mickael Loe - A - Fook&nbsp;</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1j"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/care-2000x770.png",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#433632",
+            "overlay": true,
+            "overlayColor": "#7c706b",
+            "overlayOpacity": "0.9"
+          },
+          "text": "<a href=\"#bottom\">Copyright (c) 2018 Winixion.</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1k"
+        },
+        {
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "postToLoad": 3,
+            "facebook": "mobirise",
+            "twitter": "mobirise",
+            "google": "+mobirise",
+            "youtube": "UCt_tncVAetpK5JeM8L-8jyw",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-1n"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c0a375",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/d-p-3-600x338.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.behance.net/gallery/91967217/Deception-and-Perception",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/images-1-225x225.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.behance.net/gallery/91968367/UHS",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/terre-trapcode-plan-de-travail-172x-100-600x338.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.behance.net/gallery/91967537/EARTH-OBSERVATION",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vagone-one-600x338.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.behance.net/gallery/92184265/Vagones",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "<br>Deception &amp; Perception&nbsp;",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "\"  Mask  \"\n<br>The invention of masks by humankind has been motivated by multiple interests. They can help to hide,change oneself’s appearance or social status and emphasize emotions.\n<br>The properties of masks are also used in the animal kingdom. Deceit, camouflage, intimidation, hypnosis, in order to survive, can be found in every natural environment. The prey finds itself trapped, vulnerable, frightened, seduced, deceived. We can acknowledge that there is a similar protocol in the animal kingdom and in the human society. Therefore, we could raise the question of how to transpose these natural masks that deceive, attract or hypnotise to fulfill the primal goal of survival and reproduction, into the sphere of the audience. \n<br>How to emulate the emotions felt in the animal world and do people could experience them ?<br><br>https://www.youtube.com/watch?v=37JS3zZW65w<br>",
+          "title2": "UHS ( Une Histoire simple )&nbsp;",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "À travers deux longs-métrages interactifs, Une Histoire Simple à Lyon vous propose une expérience cinématographique inédite : laissez vous surprendre dans une aventure trépidante, une immersion numérique aux libertés d'action quasi sans limites. <br>Bien plus que du cinéma, prenez part à la promesse d’un divertissement différent.\n<br>\n<br><br>https://www.unehistoiresimple.fr<br><br><br>Gratuit et ouvert à tous.tes !\n<br>Dans le cadre des projections Tout le Monde Dehors de la Ville de Lyon .&nbsp;<br><br><br><br><br><br><br>",
+          "title3": "<br>Metops<br>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Meterology satellite :  Metops - A  , B , C , SG  \n<br>They provides us giving some informations about meterological activities and can alert us of all kind of natural dysasters  . &nbsp;<br><br><br><br><br><br><br>https://www.youtube.com/watch?v=Ijim3qSwjBg<br><br>https://www.airbus.com<br><br><br><br><br><br><br><br><br>&nbsp;<br>",
+          "title4": "Vagones&nbsp;",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "<br>On en a marre de faire la queue devant cette même boulangerie entre nos cours , parce qu' il n'y a plus de place à la cafétaria ; on mange par conséquent toujours les même choses , ça revient chère et on a pas le temps d' aller ailleurs ! Laissez venir la cuisine artisanale jusqu' à vous grâce à cette application qui vous localise les points de rdv de Food Trucs les plus proches et optez pour une nourriture saine ( et généralement équilibré ) , différente chaque jour et surtout peu chère grâce à notre système \" AppLight \" . \" Vagone \" , bientôt disponible sur l' App store .<br><br><br><br><br><br><br><br><br><br><br>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.youtube.com/watch?v=37JS3zZW65w\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/UneHistoireSimple/\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.youtube.com/watch?v=Ijim3qSwjBg\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.behance.net/gallery/92184265/Vagones\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-1m",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "font-size": "12px",
+              "text-align": "center"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "font-size": "12px"
+            }
+          }
         }
       ]
     }
