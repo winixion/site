@@ -1351,31 +1351,6 @@
           "_anchor": "footer1-1k"
         },
         {
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "postToLoad": 3,
-            "facebook": "mobirise",
-            "twitter": "mobirise",
-            "google": "+mobirise",
-            "youtube": "UCt_tncVAetpK5JeM8L-8jyw",
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
-            "overlay": true,
-            "overlayColor": "#7e9b9f",
-            "overlayOpacity": 0.6
-          },
-          "alias": "social-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "feed",
-          "_anchor": "feed-1n"
-        },
-        {
           "_params": {
             "showImages": true,
             "showTitles": true,
