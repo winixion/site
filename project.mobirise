@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": " site Mike",
+    "name": "Mickael Loe-A-Fook ",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -37,13 +37,15 @@
     ],
     "uniqCompNum": 62,
     "versionPublish": "4.8.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Winixion",
+        "title": "Mickael Loe-A-Fook",
         "meta_descr": " Page  Home  ",
         "header_custom": "",
         "footer_custom": "",
@@ -127,7 +129,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-logo-wx-plan-de-travail-172x-228x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-logo-m-3-png-plan-de-travail-172x-228x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -154,7 +156,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pags-2-857x606.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/pags-3-857x606.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -385,7 +387,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-logo-wx-plan-de-travail-172x-128x72.png",
+              "src": "@PROJECT_PATH@/assets/images/-logo-m-3-png-plan-de-travail-172x-128x72.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -517,7 +519,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-logo-wx-plan-de-travail-172x-228x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-logo-m-3-png-plan-de-travail-172x-228x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html#header1-1",
@@ -1066,36 +1068,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/planche-une-4-2000x2829.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/planche-une-4-2000x2829-800x1132.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/tour-5-1920x1200.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/tour-5-1920x1200-800x500.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/jo-prsentation-3-2000x2829.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jo-prsentation-3-2000x2829-800x1132.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -1107,7 +1085,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
@@ -1247,7 +1225,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-logo-wx-plan-de-travail-172x-228x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-logo-m-3-png-plan-de-travail-172x-228x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html#header1-1",
