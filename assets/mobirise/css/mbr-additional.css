@@ -7,6 +7,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -482,6 +483,7 @@ h6,
 }
 #header1-1 .mbr-section-lead {
   color: #c0a375;
+  font-family: 'Montserrat', sans-serif;
 }
 #slider2-4 .mbr-section-title,
 #slider2-4 .mbr-section-lead {

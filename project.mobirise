@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": " site Mike",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -35,7 +35,7 @@
         "url": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
       }
     ],
-    "uniqCompNum": 60,
+    "uniqCompNum": 62,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png"
   },
@@ -123,11 +123,11 @@
             "fontColor": "#cccccc",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">travaux / &nbsp;divers&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Projets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-1g\" aria-expanded=\"false\">Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#gallery1-v\" aria-expanded=\"false\">Gallerie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-2\" aria-expanded=\"false\">contact&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Projets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header2-1g\" aria-expanded=\"false\">Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#gallery1-v\" aria-expanded=\"false\">Gallerie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-2\" aria-expanded=\"false\">contact&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-wx-plan-de-travail-1-228x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-logo-wx-plan-de-travail-172x-228x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -167,7 +167,7 @@
             "overlayOpacity": "0.3"
           },
           "title": "",
-          "text": "Graphiste , &nbsp;infographiste 2D / &nbsp;3D &nbsp;,&nbsp;<br>&nbsp;Directeur artistique junior&nbsp;",
+          "text": "Direction artistique , Infographie 2D/3D",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Thème"
@@ -176,7 +176,9 @@
           "_anchor": "header1-1",
           "_styles": {
             ".mbr-section-lead": {
-              "color": "#c0a375"
+              "color": "#c0a375",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           }
         },
@@ -195,14 +197,14 @@
             "paddingBottom": "7",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/42295294-746732389001853-2443518709872984064-n-4-2000x1125.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/premire-page-portfolio-1920x1080.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<a href=\"page1.html#gallery1-v\" class=\"text-primary\">&nbsp;Créativité &nbsp;, &nbsp;originalité &nbsp;</a>",
+                "title": "&nbsp; &nbsp; &nbsp; <a href=\"page1.html\" class=\"text-success\">Portfolio</a>&nbsp;",
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
@@ -210,18 +212,18 @@
                 "overlayOpacity": "0.4"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/couverture-1527x1078.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/projet-site-1920x1080.png",
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<a href=\"page1.html#header2-1f\" class=\"text-primary\">&nbsp;Book &nbsp;Personalisé&nbsp;</a>",
+                "title": "&nbsp; &nbsp; &nbsp; <a href=\"page2.html\" class=\"text-success\">Projets</a>",
                 "overlay": true,
-                "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "contentAlign": "left",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.4"
               }
             ]
@@ -340,13 +342,13 @@
           },
           "title1": "&nbsp;Dipl / Brev / &nbsp;Certifs&nbsp;",
           "subtitle1": "",
-          "caption1": "&nbsp; &nbsp;- Baccalauréat S &nbsp;<br>&nbsp;- BIA ( &nbsp;brevet &nbsp;d Aéronautique &nbsp;) &nbsp; &nbsp;<br>&nbsp; &nbsp;- &nbsp; MANAA&nbsp;",
+          "caption1": "&nbsp; &nbsp;- Baccalauréat Scientifique &nbsp;<br>&nbsp;- BIA ( &nbsp;Brevet &nbsp;d'Aéronautique &nbsp;) &nbsp; &nbsp;<br>&nbsp; &nbsp;- MANAA&nbsp;<br>- Bachelor of fine art &amp; digital design ( RNCP niv 1 )",
           "title2": "Etudes&nbsp;",
           "subtitle2": "",
-          "caption2": "- Ynov &nbsp;( &nbsp;infographie / &nbsp;multimédias &nbsp;)&nbsp;<br>&nbsp;- &nbsp;E- artsup &nbsp; ( &nbsp;direction artistique &nbsp;) &nbsp;",
+          "caption2": "- Ynov &nbsp;( &nbsp;infographie / &nbsp;multimédias &nbsp;)&nbsp;<br>&nbsp;- &nbsp;E- artsup &nbsp; ( &nbsp;direction artistique / motion design ) &nbsp;",
           "title3": "&nbsp;Expérience / &nbsp;Projets &nbsp;",
           "subtitle3": "",
-          "caption3": "&nbsp;-  <a href=\"http://www.unehistoiresimple.fr\" target=\"_blank\">unehistoiresimple.fr </a>\n<br>- EXO FLOW &nbsp;<br>- &nbsp; &nbsp;<a href=\"https://www.rep-it.fr/\" target=\"_blank\">Répit France</a>&nbsp;<a href=\"https://www.rep-it.fr/\" target=\"_blank\">&nbsp; &nbsp;</a>",
+          "caption3": "&nbsp;-  <a href=\"https://www.facebook.com/UneHistoireSimple\">unehistoiresimple.fr</a> \n<br>- EXO FLOW &nbsp;<br>- &nbsp; &nbsp;<a href=\"https://www.rep-it.fr/\" target=\"_blank\">Répit France</a>&nbsp;<a href=\"https://www.rep-it.fr/\" target=\"_blank\">&nbsp; &nbsp;</a><br><a href=\"https://www.rep-it.fr/\" target=\"_blank\">-</a>&nbsp;CINJK&nbsp;<br>- Vagones&nbsp;<br>- Deception &amp; Perception&nbsp;<br>- Aroma-zone",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
@@ -383,7 +385,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-winixplan-de-travail-172x-128x72.png",
+              "src": "@PROJECT_PATH@/assets/images/-logo-wx-plan-de-travail-172x-128x72.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -396,7 +398,7 @@
               "size": 0
             }
           },
-          "text1": "Contacts<br>\n<br>Email: dreeslart@gmail.com\n<br>   Téléphone : +33 6 38 12 28 30<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;06 38 12 28 &nbsp;30&nbsp;<br>",
+          "text1": "Contacts<br>\n<br>Email: dreeslart@gmail.com\n<br>   Téléphone :&nbsp;06 38 12 28 &nbsp;30&nbsp;<br>Behance :<br>www.behance.net/mickaelloe-a-f",
           "text2": "",
           "text3": "",
           "_tags": [
@@ -515,12 +517,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-wx-plan-de-travail-1-228x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-logo-wx-plan-de-travail-172x-228x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html#header1-1",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -557,8 +558,8 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/couverture-1400x988.jpg",
-              "link": "assets/files/Portfolio  2020.pdf",
+              "src": "@PROJECT_PATH@/assets/images/premire-page-portfolio-1400x788.jpg",
+              "link": "assets/files/Portfolio%202021%202.pdf",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
@@ -576,7 +577,7 @@
             }
           },
           "title": "&nbsp;Le design version <br><i>\"O\"riginal .&nbsp;</i>&nbsp;",
-          "text": "<b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;</a><a href=\"https://www.behance.net/mickaelloe-a-f\" target=\"_blank\" class=\"text-success\">Behance</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b><i>&nbsp;</i>&nbsp;/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b><a href=\"https://youtu.be/KIBNm2K4v2g\" target=\"_blank\" class=\"text-success\">showreel</a></b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;</a><br><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;</a><b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;&nbsp;</a></b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;</a>",
+          "text": "<b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;</a><a href=\"https://www.behance.net/mickaelloe-a-f\" target=\"_blank\" class=\"text-success\">Behance</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b><i>&nbsp;</i>&nbsp;/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b><a href=\"https://www.behance.net/gallery/99875177/Showreel-2020\" class=\"text-success\">showreel</a></b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;</a><br><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;</a><b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;&nbsp;</a></b><a href=\"assets/files/Portfolio  2020.pdf\" target=\"_blank\">&nbsp;</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Thème"
@@ -603,8 +604,8 @@
             "timeout": 5,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/vagones-charte-993x553.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/id-aro-1473x823.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -623,12 +624,26 @@
                 "showText": false,
                 "showTitle": true,
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/OphBOF5DAg4.",
+                "videoUrl": "https://www.youtube.com/watch?v=Ijim3qSwjBg",
                 "title": "&nbsp;Motion &nbsp;design&nbsp;",
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/pdf-piscine-1898x903.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "&nbsp; UX / UI , Web design &nbsp;",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/lampe-1064x769.jpg",
@@ -645,28 +660,14 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/web-design-1280x3000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/c-pp-2-819x817.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "&nbsp; UX / UI , Web design &nbsp;",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/z-1043x581.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "&nbsp;Typographie&nbsp;",
+                "title": "&nbsp;Typographie / Com visuelle &nbsp;",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "",
@@ -726,30 +727,6 @@
                 "active": false
               },
               {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/portrait-barbe-2000x2829.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/portrait-barbe-2000x2829-800x806.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/hip-hop-christmas-clermont-2000x1414.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/hip-hop-christmas-clermont-2000x1414-800x566.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "Beautiful",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -792,18 +769,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/lunettes-flat-d-842x596.png",
                 "thumb": "@PROJECT_PATH@/assets/images/lunettes-flat-d-842x596-800x566.png",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/montre-7-1920x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/montre-7-1920x1080-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -900,18 +865,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/-oxy-pub-plan-de-travail-172x-100-1002x1134.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/oxy-pub-plan-de-travail-172x-100-1002x1134-800x905.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/sans-titre-4-1280x720.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sans-titre-4-1280x720-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -1020,6 +973,18 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/salle-prparation-4-1280x720.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/salle-prparation-4-1280x720-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/b-f-621x874.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/b-f-621x874-621x874.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -1155,85 +1120,6 @@
           "_anchor": "gallery3-1i"
         },
         {
-          "_params": {
-            "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": false,
-            "bgColor": "#fff",
-            "timeout": "6",
-            "slides": [
-              {
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/5LoBTjcgXw4",
-                "title": "<a href=\"https://youtu.be/8GZOtHqPUZA\" target=\"_blank\" class=\"text-primary\">&nbsp;Génériques&nbsp;</a>",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.7"
-              },
-              {
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/mqnI1mSHTIg",
-                "title": "<a href=\"https://youtu.be/bOiVnZOxC5w\" target=\"_blank\" class=\"text-primary\">&nbsp; Animations / &nbsp;</a><br><a href=\"https://youtu.be/bOiVnZOxC5w\" target=\"_blank\" class=\"text-primary\">&nbsp;Titrages&nbsp;</a>",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.7"
-              },
-              {
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": true,
-                "videoUrl": " https://youtu.be/fnNRm9EM6Ro",
-                "title": "<a href=\"https://youtu.be/bOiVnZOxC5w\" target=\"_blank\" class=\"text-primary\">&nbsp; Animations / &nbsp;</a><br><a href=\"https://youtu.be/bOiVnZOxC5w\" target=\"_blank\" class=\"text-primary\">&nbsp;Titrages&nbsp;</a>",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.4"
-              },
-              {
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": true,
-                "videoUrl": "TIghttps://www.youtube.com/watch?v=ZCF9ytruJjI",
-                "title": "<a href=\"https://youtu.be/bOiVnZOxC5w\" target=\"_blank\" class=\"text-primary\">&nbsp; Animations / &nbsp;</a><br><a href=\"https://youtu.be/bOiVnZOxC5w\" target=\"_blank\" class=\"text-primary\">&nbsp;Titrages&nbsp;</a>",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.7"
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "slider",
-          "_anchor": "slider-17"
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -1252,7 +1138,7 @@
             "bgColor": "#c0a375"
           },
           "title": "Mickael Loe-A-Fook&nbsp;",
-          "meta": "<a href=\"#top\">&nbsp;Haut de page&nbsp;</a>",
+          "meta": "<a href=\"#top\" class=\"text-success\">&nbsp;Haut de page&nbsp;</a>",
           "_tags": [
             "Thème"
           ],
@@ -1361,7 +1247,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-wx-plan-de-travail-1-228x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-logo-wx-plan-de-travail-172x-228x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html#header1-1",
