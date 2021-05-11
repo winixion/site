@@ -23,7 +23,9 @@
       "additionalSetColors": [
         "#8a8a8d",
         "#443b38",
-        "#433632"
+        "#433632",
+        "#3c3c3c",
+        "#695e59"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -35,7 +37,7 @@
         "url": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
       }
     ],
-    "uniqCompNum": 62,
+    "uniqCompNum": 65,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -72,22 +74,22 @@
               "font-family": "'Oxygen', sans-serif"
             },
             ".link": {
-              "font-size": "1.5rem"
+              "font-size": "1.25rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.624rem"
+              "font-size": "1.354rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#cccccc",
@@ -115,8 +117,8 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#000000",
-            "fontSize": "1.5",
+            "bgColor": "#ffffff",
+            "fontSize": "1.25",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -155,21 +157,24 @@
             "showButtons": false,
             "showArrow": true,
             "contentAlign": "center",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/pags-3-857x606.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/FD_nh1fsGKs?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=FD_nh1fsGKs",
+              "width": 1280,
+              "height": 720
             },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.3"
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
           },
           "title": "",
-          "text": "Direction artistique , Infographie 2D/3D",
+          "text": "<b>Direction artistique , Infographie 2D/3D<br>UX/UI , motion design</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Thème"
@@ -180,7 +185,12 @@
             ".mbr-section-lead": {
               "color": "#c0a375",
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "30px",
+              "text-align": "center"
+            },
+            ".mbr-section-lead B": {
+              "color": "#ffffff"
             }
           }
         },
@@ -382,8 +392,8 @@
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": "0.4"
+            "overlayColor": "#3c3c3c",
+            "overlayOpacity": "0.5"
           },
           "logo": {
             "image": {
@@ -421,13 +431,13 @@
           "_params": {
             "paddingTop": "4",
             "paddingBottom": "4",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/43828483_330242274450984_8699226047800934400_n-16-2000x1125.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cars-1-2000x1414.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#433632",
             "overlay": true,
-            "overlayColor": "#7c706b",
+            "overlayColor": "#695e59",
             "overlayOpacity": "0.9"
           },
           "text": "<a href=\"#bottom\">Copyright (c) 2018 Winixion.</a>",
@@ -1128,12 +1138,12 @@
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/care-2000x770.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/cars-1-2000x1414.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#433632",
             "overlay": true,
-            "overlayColor": "#7c706b",
+            "overlayColor": "#695e59",
             "overlayOpacity": "0.9"
           },
           "text": "<a href=\"#bottom\">Copyright (c) 2018 Winixion.</a>",
@@ -1247,12 +1257,12 @@
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/care-2000x770.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/cars-1-2000x1414.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#433632",
             "overlay": true,
-            "overlayColor": "#7c706b",
+            "overlayColor": "#695e59",
             "overlayOpacity": "0.9"
           },
           "text": "<a href=\"#bottom\">Copyright (c) 2018 Winixion.</a>",
