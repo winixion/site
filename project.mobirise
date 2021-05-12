@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mickael Loe-A-Fook ",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -643,7 +643,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/pdf-piscine-1898x903.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -670,14 +670,14 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/c-pp-2-819x817.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/logo-impression-jpeg-plan-de-travail-172x-100-842x596.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "&nbsp;Typographie / Com visuelle &nbsp;",
+                "title": "&nbsp;Typographie / <br>Communication visuelle &nbsp;",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "",
