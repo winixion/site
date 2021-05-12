@@ -1314,8 +1314,7 @@
               "active": true,
               "link": "https://www.behance.net/gallery/91968367/UHS",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": true
+              "title": ""
             }
           },
           "media3": {
@@ -1376,10 +1375,10 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.youtube.com/watch?v=37JS3zZW65w\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/UneHistoireSimple/\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.youtube.com/watch?v=Ijim3qSwjBg\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.behance.net/gallery/92184265/Vagones\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.youtube.com/watch?v=37JS3zZW65w\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Voir</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/UneHistoireSimple/\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Voir</a> ",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.youtube.com/watch?v=Ijim3qSwjBg\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Voir</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.behance.net/gallery/92184265/Vagones\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Voir</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -1396,6 +1395,9 @@
               "text-align": "center"
             },
             ".mbr-cards-col:nth-child(even) .card-text": {
+              "font-size": "12px"
+            },
+            ".btn": {
               "font-size": "12px"
             }
           }

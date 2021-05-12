@@ -671,3 +671,6 @@ h6,
 #features1-1m .mbr-cards-col:nth-child(even) .card-text {
   font-size: 12px;
 }
+#features1-1m .btn {
+  font-size: 12px;
+}
